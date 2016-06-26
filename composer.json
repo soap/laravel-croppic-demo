@@ -1,7 +1,7 @@
 {
-    "name": "laravel/laravel",
-    "description": "The Laravel Framework.",
-    "keywords": ["framework", "laravel"],
+    "name": "soap/laravel-user-profile",
+    "description": "The demonstration of user profile image manipulation in Laravel application.",
+    "keywords": ["croppic", "image", "profile"],
     "license": "MIT",
     "type": "project",
     "require": {
