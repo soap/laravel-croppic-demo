@@ -1,0 +1,13 @@
+#crop-container {
+    width: 150px;
+    height: 150px;
+    position: relative; /* or fixed or absolute */
+}
+
+.profile-image-container img, .profile-image-container .uploadButton button {
+    width: 100%;
+}
+.uploadButton {
+    margin-right: 55px;
+    text-align: center;
+}
