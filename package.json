@@ -1,12 +1,20 @@
 {
-  "private": true,
-  "scripts": {
-    "prod": "gulp --production",
-    "dev": "gulp watch"
-  },
-  "devDependencies": {
-    "gulp": "^3.9.1",
-    "laravel-elixir": "^5.0.0",
-    "bootstrap-sass": "^3.0.0"
-  }
+    "private": true,
+    "scripts": {
+        "prod": "gulp --production",
+        "dev": "gulp watch"
+    },
+    "devDependencies": {
+        "@tailwindcss/forms": "^0.4.0",
+        "alpinejs": "^3.4.2",
+        "autoprefixer": "^10.1.0",
+        "gulp": "^3.9.1",
+        "laravel-elixir": "^5.0.0",
+        "postcss": "^8.2.1",
+        "postcss-import": "^14.0.1",
+        "tailwindcss": "^3.0.0"
+    },
+    "dependencies": {
+        "node-sass": "^7.0.1"
+    }
 }
